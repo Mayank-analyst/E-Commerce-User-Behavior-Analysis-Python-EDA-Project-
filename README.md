@@ -38,7 +38,7 @@ To analyze how users interact with the platform and identify:
 
 ### 🌍 Users by Country
 
-![Users by Country](images/Screenshot_442.png)
+![Users by Country](Users_By_Country.png)
 
 **Insight:**
 Majority of users are concentrated in a few countries, indicating strong regional dominance. This suggests that marketing efforts are either focused or more effective in these regions.
@@ -47,7 +47,7 @@ Majority of users are concentrated in a few countries, indicating strong regiona
 
 ### 📱 Device Usage Distribution
 
-![Device Usage](images/Screenshot_444.png)
+![Device Usage](Device_Type_Distribution.png)
 
 **Insight:**
 Mobile devices contribute the highest share of traffic, indicating the importance of a mobile-first user experience and optimization strategy.
@@ -56,7 +56,7 @@ Mobile devices contribute the highest share of traffic, indicating the importanc
 
 ### 🔗 Traffic Source Distribution
 
-![Traffic Source](images/Screenshot_445.png)
+![Traffic Source](Traffic_Source_Distribution.png)
 
 **Insight:**
 Organic and referral traffic sources dominate, suggesting better user quality compared to paid sources. This highlights the importance of SEO and partnerships.
@@ -74,7 +74,7 @@ Most users spend a low to moderate amount of time on the platform, indicating qu
 
 ### 📄 Pages Viewed Distribution
 
-![Pages Viewed](images/Screenshot_447.png)
+![Pages Viewed](Time_Spent_Distribution.png)
 
 **Insight:**
 Users typically view multiple pages per session, suggesting decent engagement and exploration behavior across the platform.
@@ -83,7 +83,7 @@ Users typically view multiple pages per session, suggesting decent engagement an
 
 ### 🛒 Cart vs Purchase Conversion
 
-![Conversion](images/Screenshot_448.png)
+![Conversion](Purchase_Rate_by_Cart_Status.png)
 
 **Insight:**
 Users who add items to the cart have a significantly higher probability of purchasing, confirming the importance of cart activity in the conversion funnel.
@@ -92,7 +92,7 @@ Users who add items to the cart have a significantly higher probability of purch
 
 ### 🌍 Revenue by Country
 
-![Revenue by Country](images/Screenshot_449.png)
+![Revenue by Country](Revenue_By_Country.png)
 
 **Insight:**
 Certain countries generate higher average revenue, indicating strong purchasing power or higher-value customers in those regions.
@@ -101,7 +101,7 @@ Certain countries generate higher average revenue, indicating strong purchasing 
 
 ### 📱 Revenue by Device
 
-![Revenue by Device](images/Screenshot_450.png)
+![Revenue by Device](Revenue_By_Device_Type.png)
 
 **Insight:**
 Device type influences spending behavior, with slight variations in average purchase value across platforms.
@@ -133,4 +133,5 @@ This analysis highlights key behavioral patterns and conversion dynamics in an e
 
 ## 👨‍💻 Author
 
-Mayank V. X
+Mayank Bisht
+Data Analytics Enthusiast | EXCEL(Advanced) | SQL(Postgre) | Python(NumPy, Pandas, Matplotlib) | PowerBI
