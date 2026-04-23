@@ -134,4 +134,5 @@ This analysis highlights key behavioral patterns and conversion dynamics in an e
 ## 👨‍💻 Author
 
 Mayank Bisht
-Data Analytics Enthusiast | EXCEL(Advanced) | SQL(Postgre) | Python(NumPy, Pandas, Matplotlib) | PowerBI
+
+## Data Analytics Enthusiast | EXCEL(Advanced) | SQL(Postgre) | Python(NumPy, Pandas, Matplotlib) | PowerBI
